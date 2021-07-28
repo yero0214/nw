@@ -1,0 +1,26 @@
+guide
+    - character creation
+    - settings
+        - fps cap
+        - weapon swap
+    - tips
+        - skip tutorial
+        - respone
+        - unstuck
+        - picking paper
+    - spone points
+    - Inn
+    - choosing faction
+    - terriory bonus
+    - gathering
+        - items
+    - fast travel
+    - global chat
+    - leveling
+        - main story
+        - side story
+        - faction quest
+        - town project
+        - corruption
+    - builds
+        - paladin
